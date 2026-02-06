@@ -2,6 +2,10 @@
   <img src="assets/banner.png" width="100%" alt="GitHub Banner"/>
 </p>
 
+![AI](https://img.shields.io/badge/AI-Research-blue)
+![NLP](https://img.shields.io/badge/NLP-Systems-green)
+![RAG](https://img.shields.io/badge/RAG-LLMs-purple)
+
 <h2><span style="color:#58A6FF;">👩‍💻 About</span></h2>
 I build **research-driven, production-ready AI systems** with a focus on:
 
