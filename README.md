@@ -7,14 +7,14 @@
 ![RAG](https://img.shields.io/badge/RAG-LLMs-purple)
 
 <h2><span style="color:#58A6FF;">👩‍💻 About</span></h2>
-I build **research-driven, production-ready AI systems** with a focus on:
+I build research-driven, production-ready AI systems with a focus on:
 
 - Natural Language Processing (NLP)
 - Multimodal AI
 - Retrieval-Augmented Generation (RAG)
 - End-to-end ML pipelines
 
-My work bridges **academic research and real-world deployment**.
+My work bridges academic research and real-world deployment.
 
 <h2><span style="color:#7EE787;">🚀 Featured Work</span></h2>
 Explore my **pinned repositories** below for:
@@ -24,7 +24,7 @@ Explore my **pinned repositories** below for:
 - Applied ML for real-world problems
 
 <h2><span style="color:#D2A8FF;">🛠 Tech Stack</span></h2>
-**Python · Machine Learning · Deep Learning · Generative AI · RAG · LangChain · NLP · FAISS · Streamlit · GitHub**
+Python · Machine Learning · Deep Learning · Generative AI · RAG · LangChain · NLP · FAISS · Streamlit · GitHub
 
 ---
 
