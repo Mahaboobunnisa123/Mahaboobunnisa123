@@ -31,5 +31,5 @@ Python · Machine Learning · Deep Learning · Generative AI · RAG · LangChain
 ## 📫 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/mahaboobunnisa123  
 - 🌐 Portfolio: https://md-mahaboobunnisa.vercel.app  
-- 📧 Email: mdshabbi885 [at] gmail [dot] com  
+- 📧 Email: mahboobunnisa885@gmail.com 
 - 🌍 India
