@@ -26,7 +26,9 @@ Explore my **pinned repositories** below for:
 <h2><span style="color:#D2A8FF;">🛠 Tech Stack</span></h2>
 Python · Machine Learning · Deep Learning · Generative AI · RAG · LangChain · NLP · FAISS · Streamlit · GitHub  · HTML · CSS · JavaScript  · Vue  · UI Improvements · React 
 
----
+## 🤝 Open Source Contributions
+- OWASP - OpenCRE, Cornucopia & Threat Dragon projects(UI / content improvements)
+- AboutCode - VulnerableCode project contributions
 
 ## 📫 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/mahaboobunnisa123  
