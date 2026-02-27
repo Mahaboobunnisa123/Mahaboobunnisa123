@@ -24,7 +24,7 @@ Explore my **pinned repositories** below for:
 - Applied ML for real-world problems
 
 <h2><span style="color:#D2A8FF;">🛠 Tech Stack</span></h2>
-Python · Machine Learning · Deep Learning · Generative AI · RAG · LangChain · NLP · FAISS · Streamlit · GitHub
+Python · Machine Learning · Deep Learning · Generative AI · RAG · LangChain · NLP · FAISS · Streamlit · GitHub  · HTML · CSS · JavaScript  · Vue  · UI Improvements · React 
 
 ---
 
