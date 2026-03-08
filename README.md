@@ -17,10 +17,10 @@ I build research-driven, production-ready AI systems with a focus on:
 My work bridges academic research and real-world deployment.
 
 <h2><span style="color:#7EE787;">🚀 Featured Work</span></h2>
-Explore my **pinned repositories** below for:
+Explore my pinned repositories below for:
+
 - Research-based NLP projects
 - RAG chatbots and knowledge systems
-- Multimodal AI applications
 - Applied ML for real-world problems
 
 <h2><span style="color:#D2A8FF;">🛠 Tech Stack</span></h2>
