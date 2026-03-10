@@ -30,6 +30,8 @@ Python · Machine Learning · Deep Learning · Generative AI · RAG · LangChain
 - OWASP - OpenCRE, Cornucopia & Threat Dragon projects(UI / content improvements)
 - AboutCode - VulnerableCode project contributions
 
+#### Available for freelance work - contact via email/LinkedIn
+
 ## 📫 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/mahaboobunnisa123  
 - 🌐 Portfolio: https://md-mahaboobunnisa.vercel.app  
